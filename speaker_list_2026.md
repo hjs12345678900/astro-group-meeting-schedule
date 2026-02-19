@@ -3,7 +3,7 @@
 | N | 02/02 |                               |                               |                               |
 | Y | 09/02 | Maja Jabłońska & Will Borden  | Tackling the Challenges of Stellar Spectroscopy with Machine Learning and Modern Computational Methods & an introduction to the maker space | Tracy                         |
 | Y | 16/02 | Charlie Kilpatrick            | Uncovering neutron star mergers, heavy elements, and energetic explosions with multi-messenger astronomy | Sam                           |
-| Y | 23/02 | Yusen Li & Bailey Martin      |                               | Tong                          |
+| Y | 23/02 | Yusen Li & Bailey Martin      |                               | Hudson                        |
 | Y | 02/03 | Sierra Dodd                   |                               | Blaze?                        |
 | N | 09/03 | **LABOUR DAY**                |                               |                               |
 | Y | 16/03 | Hudson Tippett                | Introduction to Wavelets and how they can be used for GRB detection | Matt?                         |
