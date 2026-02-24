@@ -7,7 +7,7 @@
 | Y | 02/03 | Sierra Dodd                   |                               | Blaze?                        |
 | N | 09/03 | **LABOUR DAY**                |                               |                               |
 | Y | 16/03 | Hudson Tippett                | Introduction to Wavelets and how they can be used for GRB detection | Matt?                         |
-| Y | 23/03 | Aleksandra Nemtinova          |                               |                               |
+| Y | 23/03 |                               |                               |                               |
 | Y | 30/03 |                               |                               |                               |
 | N | 06/04 | **EASTER MONDAY**             |                               |                               |
 | Y | 13/04 |                               |                               |                               |
