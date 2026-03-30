@@ -8,7 +8,7 @@
 | N | 09/03 | **LABOUR DAY**                |                               |                               |
 | Y | 16/03 | Hudson Tippett                | Introduction to Wavelets and how they can be used for GRB detection | Matt                         |
 | Y | 23/03 | Jack Murray                              |  Exploration of the astronomical properties of the great pyramids of Giza                             | Sierra                        |
-| Y | 30/03 |  Christian Reichardt                            |       CMB                        |       Ash                        |
+| Y | 30/03 |  Christian Reichardt                            |       Searching for the echoes of inflation and other physics beyond CDM with measurements of CMB polarisation                        |       Ash                        |
 | N | 06/04 | **EASTER MONDAY**             |                               |                               |
 | Y | 13/04 |                               |                               |                               |
 | Y | 20/04 |                               |                               |                               |
