@@ -11,7 +11,7 @@
 | Y | 30/03 |  Christian Reichardt                            |       Searching for the echoes of inflation and other physics beyond CDM with measurements of CMB polarisation                        |       Ash                        |
 | N | 06/04 | **EASTER MONDAY**             |                               |                               |
 | Y | 13/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |    Rui Zhou                           |
-| Y | 20/04 |                               |                               |                               |
+| Y | 20/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |                               |
 | Y | 27/04 |      Tracy Bu                         |                               |                               |
 | Y | 04/05 |                               |                               |                               |
 | Y | 11/05 |                               |                               |                               |
