@@ -12,7 +12,7 @@
 | N | 06/04 | **EASTER MONDAY**             |                               |                               |
 | Y | 13/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |    Rui Zhou                           |
 | Y | 20/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |                               |
-| Y | 27/04 |      Tracy Bu                         |                               |                               |
+| Y | 27/04 |      Tracy Bu                         |                               |   Eric                            |
 | Y | 04/05 |      Duane                         |     Finding Orientations (we'll derive the equations)                          |                               |
 | Y | 11/05 |     Christine                          |     How to make a poster                        |    Alex                           |
 | Y | 18/05 |                               |                               |                               |
