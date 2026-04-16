@@ -13,7 +13,7 @@
 | Y | 13/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |    Rui Zhou                           |
 | Y | 20/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |                               |
 | Y | 27/04 |      Tracy Bu                         |                               |                               |
-| Y | 04/05 |      Duane                         |                               |                               |
+| Y | 04/05 |      Duane                         |     Finding Orientations (we'll derive the equations)                          |                               |
 | Y | 11/05 |     Christine                          |     How to make a poster                        |                               |
 | Y | 18/05 |                               |                               |                               |
 | Y | 25/05 |                               |                               |                               |
