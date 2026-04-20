@@ -15,7 +15,7 @@
 | Y | 27/04 |      Tracy Bu                         |                               |   Eric                            |   Sam
 | Y | 04/05 |      Duane                         |     Finding Orientations (we'll derive the equations)                          |     Haritha                          |
 | Y | 11/05 |     Christine                          |     How to make a poster                        |         Christine                     |
-| Y | 18/05 |                               |                               |         Alex                       |
+| Y | 18/05 |     Cameron                          |                               |         Alex                       |
 | Y | 25/05 |                               |                               |                               |
 | Y | 01/06 |                               |                               |                               |
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
