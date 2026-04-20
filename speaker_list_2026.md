@@ -11,10 +11,10 @@
 | Y | 30/03 |  Christian Reichardt                            |       Searching for the echoes of inflation and other physics beyond CDM with measurements of CMB polarisation                        |       Ash                        |
 | N | 06/04 | **EASTER MONDAY**             |                               |                               |
 | Y | 13/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |    Rui Zhou                           |
-| Y | 20/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |                               |
-| Y | 27/04 |      Tracy Bu                         |                               |   Eric                            |
+| Y | 20/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |      Sam                 | Hudson
+| Y | 27/04 |      Tracy Bu                         |                               |   Eric                            |   Sam
 | Y | 04/05 |      Duane                         |     Finding Orientations (we'll derive the equations)                          |                               |
-| Y | 11/05 |     Christine                          |     How to make a poster                        |                              |
+| Y | 11/05 |     Christine                          |     How to make a poster                        |         Christine                     |
 | Y | 18/05 |                               |                               |         Alex                       |
 | Y | 25/05 |                               |                               |                               |
 | Y | 01/06 |                               |                               |                               |
