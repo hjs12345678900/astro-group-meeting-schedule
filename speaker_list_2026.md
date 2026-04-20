@@ -16,7 +16,7 @@
 | Y | 04/05 |      Duane                         |     Finding Orientations (we'll derive the equations)                          |     Haritha                          |
 | Y | 11/05 |     Christine                          |     How to make a poster                        |         Christine                     |
 | Y | 18/05 |     Cameron                          |                               |         Alex                       |
-| Y | 25/05 |                               |                               |                               |
+| Y | 25/05 |                               |                               |       Jin                        |
 | Y | 01/06 |                               |                               |                               |
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
 | Y | 15/06 |                               |                               |                               |
