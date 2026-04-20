@@ -1,4 +1,4 @@
-|   | date  | speaker                       | title                         | cake                          |
+|   | date  | speaker                       | title                         | cake                          | Towel
 | - | ----- | ----------------------------- | ----------------------------- | ----------------------------- |
 | N | 02/02 |                               |                               |                               |
 | Y | 09/02 | Maja Jabłońska & Will Borden  | Tackling the Challenges of Stellar Spectroscopy with Machine Learning and Modern Computational Methods & an introduction to the maker space | Tracy                         |
