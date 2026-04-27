@@ -17,7 +17,7 @@
 | Y | 11/05 |     Christine                          |     How to make a poster                        |         Christine                     |
 | Y | 18/05 |    Justin                           |                               |         Alex                       |
 | Y | 25/05 |    Cameron                           |                               |       Jin                        |
-| Y | 01/06 |                               |                               |     Firda                          |
+| Y | 01/06 |     Ash                          |                               |     Firda                          |
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
 | Y | 15/06 |                               |                               |                               |
 | Y | 22/06 |                               |                               |                               |
