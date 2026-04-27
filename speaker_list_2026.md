@@ -13,7 +13,7 @@
 | Y | 13/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |    Rui Zhou                           |
 | Y | 20/04 |   Matt Thomas                            |  Spirit Satellite Operations                             |      Sam                 | Hudson
 | Y | 27/04 |      Tracy Bu                         |     A talk for physicists who don't run -- marathon as a constrained optimisation problem                          |   Eric                            |   Sam
-| Y | 04/05 |      Duane                         |     Finding Orientations (we'll derive the equations)                          |     Haritha                          |
+| Y | 04/05 |      Duane                         |     Archaeoastronomy: Celestial Alignments or Wishful Thinking?                          |     Haritha                          |
 | Y | 11/05 |     Christine                          |     How to make a poster                        |         Christine                     |
 | Y | 18/05 |    Justin                           |                               |         Alex                       |
 | Y | 25/05 |    Cameron                           |                               |       Jin                        |
