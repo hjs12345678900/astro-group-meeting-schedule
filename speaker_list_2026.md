@@ -15,7 +15,7 @@
 | Y | 27/04 |      Tracy Bu                         |     A talk for physicists who don't run -- marathon as a constrained optimisation problem                          |   Eric                            |   Sam
 | Y | 04/05 |      Duane                         |     Archaeoastronomy: Celestial Alignments or Wishful Thinking?                          |     Haritha                          |
 | Y | 11/05 |     Christine                          |     How to make a poster                        |         Christine                     |
-| Y | 18/05 |    Justin                           |                               |         Alex                       |
+| Y | 18/05 |    Sam                           |    Shadow Hunter                           |         Alex                       |
 | Y | 25/05 |    Cameron                           |                               |       Jin                        |
 | Y | 01/06 |     Ash                          |                               |     Firda                          |
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
