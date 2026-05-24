@@ -16,7 +16,7 @@
 | Y | 04/05 |      Duane                         |     Archaeoastronomy: Celestial Alignments or Wishful Thinking?                          |     Haritha                          |
 | Y | 11/05 |     Christine                          |     How to make a poster                        |         Christine                     |
 | Y | 18/05 |    Sam                           |    Shadow Hunter                           |         Alex                       |
-| Y | 25/05 |    Cameron                           |                               |       Jin                        |
+| Y | 25/05 |    Cameron                           |   Photometric Redshift Estimates with PROSPECTOR                            |       Jin                        |
 | Y | 01/06 |     Ash                          |                               |     Firda                          |
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
 | Y | 15/06 |                               |                               |                               |
