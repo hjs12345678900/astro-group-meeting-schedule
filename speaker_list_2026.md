@@ -17,7 +17,7 @@
 | Y | 11/05 |     Christine                          |     How to make a poster                        |         Christine                     |
 | Y | 18/05 |    Sam                           |    Shadow Hunter                           |         Alex                       |
 | Y | 25/05 |    Cameron                           |   Photometric Redshift Estimates with PROSPECTOR                            |       Jin                        |
-| Y | 01/06 |     Ash                          |                               |     Firda                          |
+| Y | 01/06 |     Ash                          |  Life in another hemisphere                             |     Firda                          |
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
 | Y | 15/06 |   Sruthi                            |                               |                               |
 | Y | 22/06 |                               |                               |                               |
