@@ -21,7 +21,7 @@
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
 | Y | 15/06 |   Sruthi                            |                               |    Stephen                           |
 | Y | 22/06 |                               |                               |                               |
-| Y | 29/06 |                               |                               |                               |
+| Y | 29/06 |                               |                               |     Jacinta                          |
 | Y | 06/07 | **ASA**                       |                               |                               |
 | Y | 13/07 | **ASA**                       |                               |                               |
 | Y | 20/07 |  Firda                             |                               |             Sara                  |
