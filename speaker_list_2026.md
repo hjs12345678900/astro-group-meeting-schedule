@@ -19,7 +19,7 @@
 | Y | 25/05 |    Cameron                           |   Photometric Redshift Estimates with PROSPECTOR                            |       Jin                        |
 | Y | 01/06 |     Ash                          |  Life in another hemisphere                             |     Firda                          |
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
-| Y | 15/06 |   Sruthi                            |                               |                               |
+| Y | 15/06 |   Sruthi                            |                               |    Stephen                           |
 | Y | 22/06 |                               |                               |                               |
 | Y | 29/06 |                               |                               |                               |
 | Y | 06/07 | **ASA**                       |                               |                               |
