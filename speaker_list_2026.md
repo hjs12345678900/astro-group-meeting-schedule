@@ -19,9 +19,9 @@
 | Y | 25/05 |    Cameron                           |   Photometric Redshift Estimates with PROSPECTOR                            |       Jin                        |
 | Y | 01/06 |     Ash                          |  Life in another hemisphere                             |     Firda                          |
 | N | 08/06 | **KING'S BIRTHDAY**           |                               |                               |
-| Y | 15/06 |   Sruthi                            |                               |    Stephen                           |
-| Y | 22/06 |   Eric                               |                               |   Claire                            |
-| Y | 29/06 |    Stephen                           |                               |     Jacinta                          |
+| Y | 15/06 |   Sruthi                            |  The curious case of missing X-rays                             |    Stephen                           |
+| Y | 22/06 |   Eric                               | Timing noise as a probe of neutron star interiors: Crust-superfluid coupling timescales for 105 UTMOST pulsars                              |   Claire                            |
+| Y | 29/06 |    Stephen                           |  Some aspects of David Edmund Caro                             |     Jacinta                          |
 | Y | 06/07 | **ASA**                       |                               |                               |
 | Y | 13/07 | **ASA**                       |                               |                               |
 | Y | 20/07 |  Firda                             |                               |             Sara                  |
