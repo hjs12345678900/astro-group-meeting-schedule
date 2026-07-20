@@ -24,13 +24,13 @@
 | Y | 29/06 |    Stephen                           |  Some aspects of David Edmund Caro                             |     Jacinta                          |
 | Y | 06/07 | **ASA**                       |                               |                               |
 | Y | 13/07 | **ASA**                       |                               |                               |
-| Y | 20/07 |  Firda                             |                               |             Sara                  |
+| Y | 20/07 |  Firda                             | Towards Ha and [OIII] Luminosity Functions with PASSAGE JWST                              |             Sara                  |
 | Y | 27/07 | Matt Stanton                  |                               |      Cam                         |
 | Y | 03/08 | Sam                              |                               |                               |
 | Y | 10/08 | Justin                              |                               |                               |
 | Y | 17/08 |  Vanessa                             |                               |                               |
 | Y | 24/08 |   Alex                            |                               |                               |
-| Y | 31/08 |                               |                               |                               |
+| Y | 31/08 |  Hayley                             |                               |                               |
 | Y | 07/09 |                               |                               |                               |
 | Y | 14/09 |                               |                               |                               |
 | Y | 21/09 |                               |                               |                               |
