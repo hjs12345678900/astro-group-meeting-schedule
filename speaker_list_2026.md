@@ -25,7 +25,7 @@
 | Y | 06/07 | **ASA**                       |                               |                               |
 | Y | 13/07 | **ASA**                       |                               |                               |
 | Y | 20/07 |  Firda                             | Towards Ha and [OIII] Luminosity Functions with PASSAGE JWST                              |             Sara                  |
-| Y | 27/07 | Matt Stanton                  |                               |      Cam                         |
+| Y | 27/07 | Matt Stanton                  | A Glitch in the ~~Matrix~~ Pulsar                              |      Cam                         |
 | Y | 03/08 | Sam (group introduction?)                              |                               |  Vijay                             |
 | Y | 10/08 | Justin                              |                               |                               |
 | Y | 17/08 |  Vanessa                             |                               |                               |
