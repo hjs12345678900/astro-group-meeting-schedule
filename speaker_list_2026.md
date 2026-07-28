@@ -28,8 +28,8 @@
 | Y | 27/07 | Matt Stanton                  | A Glitch in the ~~Matrix~~ Pulsar                              |      Cam                         |
 | Y | 03/08 | Sam (group introduction?)                              |                               |  Vijay                             |
 | Y | 10/08 | Justin                              |                               | Christian                              |
-| Y | 17/08 |  Vanessa                             | Ocha                              |                               |
-| Y | 24/08 |   Alex                            |  Josh                             |                               |
+| Y | 17/08 |  Vanessa                             |                             |  Ocha                               |
+| Y | 24/08 |   Alex                            |                              |  Josh                              |
 | Y | 31/08 |  Hayley                             |                               |                               |
 | Y | 07/09 |                               |                               |                               |
 | Y | 14/09 |                               |                               |                               |
