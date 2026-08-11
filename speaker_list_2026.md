@@ -30,7 +30,7 @@
 | Y | 10/08 | Justin                              |                               | Christian                              |
 | Y | 17/08 |  Christian                             |                             |  Ocha                               |
 | Y | 24/08 |   Alex                            |                              |  Josh                              |
-| Y | 31/08 |  Hayley                             |                               | Venessa                              |
+| Y | 31/08 |  Hayley                             |                               | Vanessa                              |
 | Y | 07/09 |  Ocha                             |                               |                               |
 | Y | 14/09 |                               |                               |                               |
 | Y | 21/09 |                               |                               |                               |
