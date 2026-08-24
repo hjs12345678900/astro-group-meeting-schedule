@@ -29,7 +29,7 @@
 | Y | 03/08 | Group Introduction!                              |                               |  Vijay                             |
 | Y | 10/08 | Justin                              | Pasta                              | Christian                              |
 | Y | 17/08 |  Christian                             |  SZ effects in cosmology                           |  Ocha                               |
-| Y | 24/08 |   Alex                            |                              |  Josh                              |
+| Y | 24/08 |   Alex                            |  constraints on primordial gravitational waves using CMB, LIGO–Virgo–KAGRA, and NANOGrav data                            |  Josh                              |
 | Y | 31/08 |  Hayley                             |                               | Vanessa                              |
 | Y | 07/09 |  Ocha                             |                               |                               |
 | Y | 14/09 |  Jarra                             |                               |                               |
