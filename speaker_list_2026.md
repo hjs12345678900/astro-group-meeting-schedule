@@ -32,7 +32,7 @@
 | Y | 24/08 |   Alex                            |  constraints on primordial gravitational waves using CMB, LIGO–Virgo–KAGRA, and NANOGrav data                            |  Josh                              |
 | Y | 31/08 |  Hayley                             |   On the potential for inhomogeneities to mimic an evolving dark energy                            | Vanessa                              |
 | Y | 07/09 |  Ocha                             |  Bosscha Observatory Total Solar Eclipse Expedition                             |   Sruthi                            |
-| Y | 14/09 |  Jarra                             |                               |                               |
+| Y | 14/09 |  Jarra                             |                               |      Danial                         |
 | Y | 21/09 |                               |                               |                               |
 | Y | 28/09 |                               |                               |                               |
 | Y | 05/10 |                               |                               |                               |
