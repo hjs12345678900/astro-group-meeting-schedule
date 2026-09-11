@@ -36,7 +36,7 @@
 | Y | 21/09 |  Nicholas Low                 |                               |                               |
 | Y | 28/09 |                               |                               |                               |
 | Y | 05/10 | Phoebe                              |                               |                               |
-| Y | 12/10 |                               |                               |                               |
+| Y | 12/10 | Valentina                              |                               |                               |
 | Y | 19/10 |                               |                               |                               |
 | Y | 26/10 |                               |                               |                               |
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
