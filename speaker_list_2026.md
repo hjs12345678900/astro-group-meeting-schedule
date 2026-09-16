@@ -32,13 +32,13 @@
 | Y | 24/08 |   Alex                            |  constraints on primordial gravitational waves using CMB, LIGO–Virgo–KAGRA, and NANOGrav data                            |  Josh                              |
 | Y | 31/08 |  Hayley                             |   On the potential for inhomogeneities to mimic an evolving dark energy                            | Vanessa                              |
 | Y | 07/09 |  Ocha                             |  Bosscha Observatory Total Solar Eclipse Expedition                             |   Sruthi                            |
-| Y | 14/09 |  Jarra                             |                               |      Danial                         |
-| Y | 21/09 |  Nicholas Low                 |                               |                               |
-| Y | 28/09 |                               |                               |                               |
-| Y | 05/10 | Phoebe                              |                               |                               |
-| Y | 12/10 | Valentina                              |                               |                               |
-| Y | 19/10 |                               |                               |                               |
-| Y | 26/10 |                               |                               |                               |
+| Y | 14/09 |  Jarra                             |   Statistical mechanics and complex systems as tools for teaching "physics"    |      Danial                         |
+| Y | 21/09 |  Nicholas Low                 |                               |  Justin                             |
+| Y | 28/09 |  Claire                             |                               |    Hayley                      |
+| Y | 05/10 | Phoebe                              |                               |  Matt Thomas                             |
+| Y | 12/10 | Valentina                              |                               |  Blaze                             |
+| Y | 19/10 |  |Tong|^2 = 0.5                             |                               |                               |
+| Y | 26/10 |  |Tong|^2 = 0.5                             |                               |                               |
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
 | Y | 09/11 |                               |                               |                               |
 | Y | 16/11 |                               |                               |                               |
