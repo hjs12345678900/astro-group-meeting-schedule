@@ -37,8 +37,8 @@
 | Y | 28/09 |  Claire                             |                               |    Hayley                      |
 | Y | 05/10 | Phoebe                              |                               |  Matt Thomas                             |
 | Y | 12/10 | Valentina                              |                               |  Blaze                             |
-| Y | 19/10 |  |Tong|^2 = 0.5                             |                               |                               |
-| Y | 26/10 |  |Tong|^2 = 0.5                             |                               |                               |
+| Y | 19/10 |  \|Tong\|^2 = 0.5                             |                               |                               |
+| Y | 26/10 |  \|Tong\|^2 = 0.5                             |                               |                               |
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
 | Y | 09/11 |                               |                               |                               |
 | Y | 16/11 |                               |                               |                               |
