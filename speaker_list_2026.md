@@ -34,7 +34,7 @@
 | Y | 07/09 |  Ocha                             |  Bosscha Observatory Total Solar Eclipse Expedition                             |   Sruthi                            |
 | Y | 14/09 |  Jarra                             |   Statistical mechanics and complex systems as tools for teaching "physics"    |      Danial                         |
 | Y | 21/09 |  Josh                 |    The Teukolski equation for the Baines-Visser spacetime                           |  Justin                             |
-| Y | 28/09 |  Claire                             |                               |    Hayley                      |
+| Y | 28/09 |  Vijay                             |   Solar Cycle 25                            |    Hayley                      |
 | Y | 05/10 | Phoebe                              |                               |  Matt Thomas                             |
 | Y | 12/10 | Valentina                              |                               |  Blaze                             |
 | Y | 19/10 |  Tong                             |                               |                               |
