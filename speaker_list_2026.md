@@ -35,13 +35,13 @@
 | Y | 14/09 |  Jarra                             |   Statistical mechanics and complex systems as tools for teaching "physics"    |      Danial                         |
 | Y | 21/09 |  Josh                 |    The Teukolski equation for the Baines-Visser spacetime                           |  Justin                             |
 | Y | 28/09 |  Vijay                             |   Solar Cycle 25                            |    Hayley                      |
-| Y | 05/10 | Phoebe                              |                               |  Matt Thomas                             |
+| Y | 05/10 | Phoebe                              |  Mediaeval Cosmic Apocalypse: Religion, Science and Astronomy            |  Matt Thomas                             |
 | Y | 12/10 | Valentina                              |                               |  Blaze                             |
 | Y | 19/10 |  Tong                             |                               |                               |
 | Y | 26/10 |  Cameron (master practice talk)                             |                               |                               |
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
 | Y | 09/11 |  Nicholas                             |                               |                               |
-| Y | 16/11 |                               |                               |                               |
+| Y | 16/11 |  Claire                             |                               |                               |
 | Y | 23/11 |                               |                               |                               |
 | Y | 30/11 |                               |                               |                               |
 | Y | 07/12 | End of year gathering on Thu  |                               |                               |
