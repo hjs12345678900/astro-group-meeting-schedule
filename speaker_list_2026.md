@@ -36,7 +36,7 @@
 | Y | 21/09 |  Josh                 |    The Teukolski equation for the Baines-Visser spacetime                           |  Justin                             |
 | Y | 28/09 |  Vijay                             |   Solar Cycle 25                            |    Hayley                      |
 | Y | 05/10 | Phoebe                              |  Mediaeval Cosmic Apocalypse: Religion, Science and Astronomy            |  Matt Thomas                             |
-| Y | 12/10 | Valentina                              |                               |  Blaze                             |
+| Y | 12/10 | Valentina                              | Why Pulsars Are Hard to Find                              |  Blaze                             |
 | Y | 19/10 |  Tong                             |                               |                               |
 | Y | 26/10 |  Cameron (master practice talk)                             |                               |                               |
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
