@@ -40,10 +40,10 @@
 | Y | 19/10 |  Josh                             |  (Job interview talk)                             |   Nicholas                            |
 | Y | 26/10 |  Cameron (master practice talk)                             |                               |   Blaze                            |
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
-| Y | 09/11 |  Nicholas                             |                               |                               |
+| Y | 09/11 |  Benedetta Vulcani            |                               |                               |
 | Y | 16/11 |  Claire                             |                               |                               |
 | Y | 23/11 |  Tong                             |                               |                               |
-| Y | 30/11 |                               |                               |                               |
+| Y | 30/11 |  Nicholas                             |                               |                               |
 | Y | 07/12 | End of year gathering on Thu  |                               |                               |
 | Y | 14/12 |                               |                               |                               |
 | Y | 21/12 |                               |                               |                               |
