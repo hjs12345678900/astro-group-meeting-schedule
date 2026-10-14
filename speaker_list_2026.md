@@ -42,7 +42,7 @@
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
 | Y | 09/11 |  Nicholas                             |                               |                               |
 | Y | 16/11 |  Claire                             |                               |                               |
-| Y | 23/11 |  Tong?                             |                               |                               |
+| Y | 23/11 |  Tong                             |                               |                               |
 | Y | 30/11 |                               |                               |                               |
 | Y | 07/12 | End of year gathering on Thu  |                               |                               |
 | Y | 14/12 |                               |                               |                               |
