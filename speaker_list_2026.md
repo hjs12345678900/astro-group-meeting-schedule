@@ -43,7 +43,7 @@
 | Y | 09/11 |  Benedetta Vulcani            |  The Aromatic Universe: PAHs in Cluster and Field Galaxies with JWST                             |                               |
 | Y | 16/11 |  Claire                             |                               |                               |
 | Y | 23/11 |  Tong                             |                               |                               |
-| Y | 30/11 |  Nicholas                             |                               |                               |
+| Y | 30/11 |  Danial                             |                               |                               |
 | Y | 07/12 | End of year gathering on Thu  |                               |                               |
 | Y | 14/12 |                               |                               |                               |
 | Y | 21/12 |                               |                               |                               |
