@@ -38,7 +38,7 @@
 | Y | 05/10 | Phoebe                              |  Mediaeval Cosmic Apocalypse: Religion, Science and Astronomy            |  Matt Thomas                             |
 | Y | 12/10 | Valentina                              | Why Pulsars Are Hard to Find                              |  Sam                             |
 | Y | 19/10 |  Josh                             |  Research seminar and mock lecture practice                             |   Nicholas                    |
-| Y | 26/10 |  Cameron (master practice talk)                             |                               |   Blaze                            |
+| Y | 26/10 |  Cameron (master practice talk)                             |  Searching for High-Redshift Galaxies in James Webb Space Telescope Surveys with Bayesian Spectral Energy Distribution Modelling                             |   Blaze                            |
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
 | Y | 09/11 |  Benedetta Vulcani            |  The Aromatic Universe: PAHs in Cluster and Field Galaxies with JWST                             |                               |
 | Y | 16/11 |  Claire                             |                               |                               |
