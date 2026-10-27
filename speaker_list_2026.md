@@ -40,7 +40,7 @@
 | Y | 19/10 |  Josh                             |  Research seminar and mock lecture practice                             |   Nicholas                    |
 | Y | 26/10 |  Cameron (master practice talk)                             |  Searching for High-Redshift Galaxies in James Webb Space Telescope Surveys with Bayesian Spectral Energy Distribution Modelling                             |   Blaze                            |
 | N | 02/11 | **MELBOURNE CUP MONDAY**      |                               |                               |
-| Y | 09/11 |  Benedetta Vulcani            |  The Aromatic Universe: PAHs in Cluster and Field Galaxies with JWST                             |                               | Tong
+| Y | 09/11 |  Benedetta Vulcani            |  The Aromatic Universe: PAHs in Cluster and Field Galaxies with JWST                             |  Tong                             | 
 | Y | 16/11 |  Claire                             |                               |                               |
 | Y | 23/11 |  Rui                            |                               |                               |
 | Y | 30/11 |  Danial                             |                               |                               |
